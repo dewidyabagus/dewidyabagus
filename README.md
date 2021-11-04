@@ -1,6 +1,6 @@
 ## Hi there, I'm Widya Ade Bagus - Aka Widy 👋
 
-[![dewidyabagus's github stats](https://github-readme-stats.vercel.app/api?username=dewidyabagus)](https://github.com/dewidyabagus/dewidyabagus)
+[![dewidyabagus github stats](https://github-readme-stats.vercel.app/api?username=dewidyabagus)](https://github.com/dewidyabagus/dewidyabagus)
 
 ### I'm a Single Fighter Developer!
 - 🌱 I’m currently learning about Microservices, Docker and DevOps
