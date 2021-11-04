@@ -1,4 +1,4 @@
-## Hi there, I'm Widya Ade Bagus. 👋
+## Hi there, I'm Widya Ade Bagus - Aka Widy 👋
 
 [![dewidyabagus's github stats](https://github-readme-stats.vercel.app/api?username=dewidyabagus)](https://github.com/dewidyabagus/dewidyabagus)
 
