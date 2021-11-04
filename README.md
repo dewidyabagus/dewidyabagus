@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there, I'm Widya Ade Bagus. 👋
 
-<!--
-**dewidyabagus/dewidyabagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![dewidyabagus's github stats](https://github-readme-stats.vercel.app/api?username=dewidyabagus)](https://github.com/dewidyabagus/dewidyabagus)
 
-Here are some ideas to get you started:
+### I'm a Single Fighter Developer!
+- 🌱 I’m currently learning about Microservices, Docker and DevOps
+- 👯 I’m looking to collaborate with other developer
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love mountain biking, finding bug and create unfinished side project 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Weekly development breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 📫 Contact Me
+- LinkedIn - [Widya Ade Bagus](https://www.linkedin.com/in/widya-ade-bagus-3a660716b/)
