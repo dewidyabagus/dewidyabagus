@@ -12,7 +12,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 29 October, 2021 - 04 November, 2021
+
+Markdown   13 mins         ██████████████████▓░░░░░░   75.24 % 
+YAML       4 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.76 % 
 ```
 <!--END_SECTION:waka-->
 
