@@ -22,5 +22,5 @@ jobs:
           SHOW_PROJECTS: false
           SHOW_TIMEZONE: true
           SHOW_EDITORS: true
-          SHOW_SHORT_INFO: false
+          SHOW_SHORT_INFO: true
           SHOW_LOC_CHART: false
