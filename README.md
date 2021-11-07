@@ -12,10 +12,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 October, 2021 - 05 November, 2021
+Week: 31 October, 2021 - 06 November, 2021
 
-Markdown   13 mins         ██████████████████▓░░░░░░   75.24 % 
-YAML       4 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.76 % 
+Go         2 hrs 51 mins   ██████████████████████▒░░   89.05 % 
+Markdown   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+YAML       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 <!--END_SECTION:waka-->
 
