@@ -21,11 +21,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2021 - 11 November, 2021
+Week: 06 November, 2021 - 12 November, 2021
 
-Go           19 hrs 57 mins  ████████████████████████▒   96.91 % 
-Bash         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Go           26 hrs 31 mins  ████████████████████████░   96.00 % 
+Markdown     24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Bash         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 <!--END_SECTION:waka-->
 
