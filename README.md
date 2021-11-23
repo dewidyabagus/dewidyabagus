@@ -21,13 +21,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 November, 2021 - 21 November, 2021
-
-Go         3 hrs 47 mins   █████████████▒░░░░░░░░░░░   52.88 % 
-Markdown   1 hr 58 mins    ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-Docker     25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-YAML       21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-SQL        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
