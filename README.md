@@ -21,12 +21,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 November, 2021 - 30 November, 2021
+Week: 25 November, 2021 - 01 December, 2021
 
-Go           2 hrs 51 mins   ███████████████████████░░   92.25 % 
-JavaScript   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Go                3 hrs 49 mins   ███████████████████████░░   91.81 % 
+JavaScript        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Protocol Buffer   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Git Config        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 <!--END_SECTION:waka-->
 
