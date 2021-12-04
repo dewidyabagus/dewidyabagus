@@ -21,13 +21,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 November, 2021 - 02 December, 2021
+Week: 27 November, 2021 - 03 December, 2021
 
-Go                13 hrs 29 mins  ███████████████████████▓░   94.14 % 
-Bash              29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-JavaScript        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Protocol Buffer   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Other             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Go                17 hrs 32 mins  ██████████████████████▒░░   89.62 % 
+SQL               1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Bash              43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Protocol Buffer   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Docker            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 <!--END_SECTION:waka-->
 
