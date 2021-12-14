@@ -21,13 +21,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2021 - 12 December, 2021
+Week: 07 December, 2021 - 13 December, 2021
 
-Go                         19 hrs 46 mins  █████████████▒░░░░░░░░░░░   53.84 % 
-Docker                     7 hrs 47 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.22 % 
-Bash                       2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Nginx configuration file   2 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-YAML                       1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Go                         22 hrs 47 mins  ████████████▒░░░░░░░░░░░░   49.89 % 
+Docker                     9 hrs 34 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.95 % 
+Bash                       4 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+YAML                       3 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Nginx configuration file   2 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 ```
 <!--END_SECTION:waka-->
 
