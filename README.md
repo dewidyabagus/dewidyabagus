@@ -21,11 +21,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 December, 2021 - 25 December, 2021
+Week: 20 December, 2021 - 26 December, 2021
 
-Go      16 hrs 43 mins  ███████████████░░░░░░░░░░   60.31 % 
-YAML    9 hrs 49 mins   █████████░░░░░░░░░░░░░░░░   35.43 % 
-SQL     1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Go      16 hrs 29 mins  ███████████████░░░░░░░░░░   59.97 % 
+YAML    9 hrs 49 mins   █████████░░░░░░░░░░░░░░░░   35.73 % 
+SQL     1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 Other   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 <!--END_SECTION:waka-->
