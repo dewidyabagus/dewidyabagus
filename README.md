@@ -21,13 +21,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2021 - 31 December, 2021
+Week: 26 December, 2021 - 01 January, 2022
 
-Go                31 hrs 47 mins  ███████████████████████▓░   94.94 % 
-Bash              1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Protocol Buffer   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-YAML              12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Docker            6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Go                29 hrs 35 mins  ███████████████████████▓░   94.64 % 
+Bash              1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Protocol Buffer   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+YAML              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Docker            6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->
 
