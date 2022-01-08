@@ -21,12 +21,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 December, 2021 - 06 January, 2022
+Week: 01 January, 2022 - 07 January, 2022
 
-Go                33 hrs 30 mins  ████████████████████████▒   96.82 % 
-SQL               31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Bash              22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Protocol Buffer   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Go                37 hrs 22 mins  ████████████████████████▒   97.59 % 
+SQL               31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Protocol Buffer   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Bash              11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 <!--END_SECTION:waka-->
 
