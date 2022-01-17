@@ -22,10 +22,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2022 - 15 January, 2022
+Week: 10 January, 2022 - 16 January, 2022
 
-Go      45 hrs 28 mins  ████████████████████████▒   96.95 % 
-SQL     1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Go      43 hrs 37 mins  ████████████████████████▒   96.83 % 
+SQL     1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 Bash    6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 <!--END_SECTION:waka-->
