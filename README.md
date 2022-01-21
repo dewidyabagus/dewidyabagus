@@ -22,7 +22,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2022 - 19 January, 2022
+Week: 14 January, 2022 - 20 January, 2022
 
 Go       31 hrs 31 mins  ████████████████████████░   95.56 % 
 SQL      56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
