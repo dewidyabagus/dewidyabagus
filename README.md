@@ -22,13 +22,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 January, 2022 - 30 January, 2022
+Week: 25 January, 2022 - 31 January, 2022
 
-Go         22 hrs 11 mins  ███████████████▓░░░░░░░░░   62.19 % 
-Docker     5 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Bash       2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-SQL        2 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Markdown   2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Go         26 hrs 48 mins  ████████████████▒░░░░░░░░   65.52 % 
+Docker     5 hrs 53 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Bash       2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+SQL        2 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Markdown   2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 ```
 <!--END_SECTION:waka-->
 
