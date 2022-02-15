@@ -22,13 +22,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2022 - 13 February, 2022
+Week: 08 February, 2022 - 14 February, 2022
 
-Go       31 hrs 57 mins  ███████████████████▒░░░░░   77.65 % 
-Docker   2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-HTML     1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Bash     1 hr 55 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Go       32 hrs 6 mins   ███████████████████▒░░░░░   77.96 % 
+Docker   2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 YAML     1 hr 52 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Bash     1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+HTML     1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 <!--END_SECTION:waka-->
 
