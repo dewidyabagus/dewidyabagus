@@ -17,6 +17,7 @@
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=blue)<br />
 ![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/REST_Client-Postman-informational?style=flat&logo=postman&logoColor=white&color=blue)
+[![wakatime](https://wakatime.com/badge/user/8623d08b-0ace-4535-9063-e0230298f0a9.svg)](https://wakatime.com/@8623d08b-0ace-4535-9063-e0230298f0a9)
 
 ### 📊 Weekly development breakdown
 
