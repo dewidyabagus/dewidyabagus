@@ -23,13 +23,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 13 February, 2022 - To: 20 February, 2022
+From: 17 February, 2022 - To: 24 February, 2022
 
-Go       33 hrs 21 mins  ██████████████████░░░░░░░   71.53 % 
-HTML     6 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Bash     1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Python   1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Docker   1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Go       26 hrs 37 mins  ██████████████▒░░░░░░░░░░   57.16 % 
+Python   6 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+PHP      5 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Docker   3 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Bash     2 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 ```
 <!--END_SECTION:waka-->
 
