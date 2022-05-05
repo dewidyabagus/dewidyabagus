@@ -24,11 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 April 2022 - To: 03 May 2022
+From: 27 April 2022 - To: 04 May 2022
 
-Go      1 hr 26 mins    ██████████████████▓░░░░░░   74.28 %
-Bash    20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-Other   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+Other   9 mins          ███████████▒░░░░░░░░░░░░░   45.58 %
 ```
 
 <!--END_SECTION:waka-->
