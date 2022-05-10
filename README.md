@@ -24,7 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 02 May 2022 - To: 09 May 2022
+
+Go     27 mins         ██████████████████████▒░░   89.50 %
+HTML   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
