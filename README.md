@@ -37,4 +37,4 @@ SQL          18 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
-- LinkedIn - [Widya Ade Bagus](https://www.linkedin.com/in/widya-ade-bagus-3a660716b/)
+- LinkedIn - [Widya Ade Bagus](https://www.linkedin.com/in/widyaadebagus/)
