@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 July 2022 - To: 06 August 2022
+From: 02 August 2022 - To: 09 August 2022
 
-Go         19 hrs 46 mins  ████████████████████░░░░░   80.63 %
-Bash       1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-Other      1 hr 38 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Go         21 hrs 20 mins  █████████████████████▒░░░   85.95 %
+Bash       1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Other      58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
 
 <!--END_SECTION:waka-->
