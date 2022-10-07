@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 September 2022 - To: 05 October 2022
+From: 29 September 2022 - To: 06 October 2022
 
-Go         16 hrs 31 mins  █████████████████████▓░░░   87.00 %
-Text       1 hr 58 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-Other      14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Go         13 hrs 51 mins  █████████████████████▓░░░   86.00 %
+Text       1 hr 58 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
+Other      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
