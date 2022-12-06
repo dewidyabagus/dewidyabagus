@@ -24,12 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 November 2022 - To: 04 December 2022
+From: 28 November 2022 - To: 05 December 2022
 
-Go         11 hrs 22 mins  █████████████████████▒░░░   84.80 %
-Bash       53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Docker     28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Other      26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Go           8 hrs 28 mins   ███████████████████▓░░░░░   78.84 %
+Bash         54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+Docker       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+JavaScript   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Other        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
