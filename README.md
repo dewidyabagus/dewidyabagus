@@ -24,12 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 26 December 2022
+From: 20 December 2022 - To: 27 December 2022
 
-Go         5 hrs 46 mins   ███████████████████▓░░░░░   79.15 %
-Bash       1 hr 5 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
-Markdown   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Other      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Go         4 hrs 12 mins   ████████████████████▓░░░░   82.84 %
+Bash       39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
+Other      8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
