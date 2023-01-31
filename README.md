@@ -24,11 +24,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2022 - To: 29 December 2022
+From: 23 January 2023 - To: 30 January 2023
 
-Go           17 hrs 24 mins  █████████████████████▒░░░   84.83 %
-Bash         1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-Other        1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Go         21 hrs 33 mins  █████████████████████░░░░   84.43 %
+Bash       1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+JSON       1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Other      50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
