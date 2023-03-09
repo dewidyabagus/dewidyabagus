@@ -24,14 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2023 - To: 07 March 2023
+From: 01 March 2023 - To: 08 March 2023
 
-Go                         12 hrs 52 mins  ████████████████████▒░░░░   81.10 %
-YAML                       52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Bash                       47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Nginx configuration file   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-JSON                       25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Other                      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Go                         10 hrs 12 mins  ████████████████████▒░░░░   81.57 %
+YAML                       51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+Nginx configuration file   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Bash                       27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Other                      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
