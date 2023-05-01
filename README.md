@@ -24,14 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 April 2023 - To: 29 April 2023
+From: 23 April 2023 - To: 30 April 2023
 
-Go         13 hrs 16 mins  ██████████████████░░░░░░░   71.48 %
-JSON       3 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
-Markdown   46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-Bash       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Text       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-YAML       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
