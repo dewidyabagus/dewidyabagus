@@ -24,9 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2023 - To: 30 April 2023
+From: 11 May 2023 - To: 18 May 2023
 
-No activity tracked
+Go         4 hrs 58 mins   █████████████████████▓░░░   86.53 %
+YAML       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Bash       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Markdown   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Makefile   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->
