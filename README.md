@@ -24,13 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2023 - To: 08 November 2023
+From: 02 November 2023 - To: 09 November 2023
 
-Go                31 hrs 55 mins  ████████████████████▒░░░░   81.24 %
-Bash              2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-Docker            1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Other             1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-Markdown          1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Go           32 hrs 9 mins   █████████████████████▒░░░   85.31 %
+Bash         1 hr 53 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Markdown     58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Other        55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Docker       45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
