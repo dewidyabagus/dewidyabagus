@@ -24,7 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2023 - To: 23 December 2023
+From: 17 December 2023 - To: 24 December 2023
 
 Go                18 hrs 26 mins  ████████████████░░░░░░░░░   64.42 %
 HTML              7 hrs 53 mins   ███████░░░░░░░░░░░░░░░░░░   27.56 %
