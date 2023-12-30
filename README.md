@@ -24,13 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 28 December 2023
+From: 22 December 2023 - To: 29 December 2023
 
-Go                4 hrs 19 mins   ██████████████████░░░░░░░   72.22 %
-HTML              1 hr 10 mins    █████░░░░░░░░░░░░░░░░░░░░   19.62 %
-Protocol Buffer   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Markdown          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Other             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Go         6 hrs 3 mins    ██████████████████████▒░░   89.22 %
+Markdown   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+HTML       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Other      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Bash       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
