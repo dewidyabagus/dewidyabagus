@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2024 - To: 11 January 2024
+From: 05 January 2024 - To: 12 January 2024
 
-Go                27 hrs 15 mins  ██████████████████░░░░░░░   71.77 %
-HTML              4 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-Markdown          2 hrs 43 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+Go                26 hrs 24 mins  █████████████████▒░░░░░░░   69.57 %
+HTML              5 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Markdown          2 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
 YAML              1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 Bash              51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
