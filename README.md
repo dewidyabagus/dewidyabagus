@@ -24,13 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 February 2024 - To: 29 February 2024
+From: 23 February 2024 - To: 01 March 2024
 
-Go           15 hrs 59 mins  █████████████████░░░░░░░░   67.72 %
-Markdown     2 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-Bash         1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-YAML         1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Makefile     45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Go           12 hrs 8 mins   █████████████████▓░░░░░░░   70.52 %
+Markdown     1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+YAML         49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Bash         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Makefile     31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->
