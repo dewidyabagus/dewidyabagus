@@ -24,7 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2024 - To: 17 April 2024
+From: 11 April 2024 - To: 18 April 2024
 
 Go           2 hrs 17 mins   ██████████████████▓░░░░░░   74.13 %
 PHP          25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
