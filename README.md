@@ -24,7 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2024 - To: 08 June 2024
+From: 02 June 2024 - To: 09 June 2024
 
 Go           16 hrs 27 mins  ████████████████▒░░░░░░░░   65.95 %
 Markdown     4 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
