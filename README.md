@@ -24,13 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2024 - To: 23 November 2024
+From: 17 November 2024 - To: 24 November 2024
 
-Go           18 hrs 32 mins  █████████████████▒░░░░░░░   68.79 %
-YAML         4 hrs 41 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
-Markdown     2 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-TOML         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Smarty       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Go           17 hrs 1 min    ███████████████▒░░░░░░░░░   60.70 %
+YAML         4 hrs 41 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
+Rust         2 hrs 42 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+Markdown     2 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+TOML         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
