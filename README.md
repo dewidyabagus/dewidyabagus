@@ -25,13 +25,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2024 - To: 04 January 2025
+From: 29 December 2024 - To: 05 January 2025
 
-Go                13 hrs 40 mins  ███████████████████░░░░░░   75.34 %
-Java Properties   1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-JavaScript        1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-YAML              1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-Docker            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Go                12 hrs 24 mins  ███████████████████▒░░░░░   76.92 %
+Java Properties   1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+YAML              1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+JavaScript        47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Docker            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
