@@ -25,13 +25,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2025 - To: 09 January 2025
+From: 03 January 2025 - To: 10 January 2025
 
-Go                19 hrs 12 mins  █████████████████▒░░░░░░░   69.99 %
-JavaScript        4 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
-Markdown          2 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-YAML              31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Docker            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Go                17 hrs 55 mins  ██████████████░░░░░░░░░░░   56.52 %
+Markdown          6 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
+JavaScript        4 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
+JSON              2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+YAML              1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 ```
 
 <!--END_SECTION:waka-->
